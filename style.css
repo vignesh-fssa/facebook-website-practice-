@@ -1,0 +1,94 @@
+.logo {
+  margin-top: 200px;
+  margin-left: 18.3%;
+}
+.logins {
+  font-size: 28px;
+  position: relative;
+  bottom: 80px;
+  margin-left: 19%;
+  font-family: Helvetica, Arial, sans-serif;
+}
+.login-1 {
+  font-size: 19px;
+  position: relative;
+  bottom: 100px;
+  margin-left: 19%;
+  font-family: Helvetica, Arial, sans-serif;
+}
+.image-1 {
+  margin-left: 19%;
+  position: relative;
+  bottom: 100px;
+}
+.names {
+  font-size: 22px;
+  margin-left: 20%;
+  position: relative;
+  bottom: 120px;
+  border: 1px solid black;
+  margin-right: 73%;
+  text-align: center;
+}
+.alliamges {
+  display: flex;
+}
+.image-2 {
+  margin-left: 8%;
+  position: relative;
+  bottom: 80px;
+}
+.form {
+  margin-left: 60%;
+  position: relative;
+  bottom: 350px;
+  border-radius: 10px;
+  border: 1px solid black;
+  background-color: white;
+  color: black;
+  height: 350px;
+  text-align: center;
+  width: 400px;
+}
+.email {
+  margin-top: 50px;
+  width: 300px;
+  text-align: start;
+  height: 20px;
+}
+.Password {
+  margin-top: 20px;
+  width: 300px;
+  height: 20px;
+  text-align: start;
+}
+.login {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  margin-right: 40px;
+  width: 300px;
+  background-color: rgb(51, 153, 255);
+  color: whitesmoke;
+  margin-top: 30px;
+  margin-left: 40px;
+}
+.forgotten {
+  color: rgb(51, 153, 255);
+  font-size: 22px;
+  position: relative;
+  margin-top: 20px;
+}
+.create {
+  background-color: rgb(51, 204, 51);
+  font-size: 19px;
+  color: whitesmoke;
+  width: 220px;
+  margin-top: 40px;
+  font-weight: bold;
+}
+.pages {
+  margin-left: 65%;
+  position: relative;
+  bottom: 350px;
+}
